@@ -2,7 +2,7 @@
 
 Description: Web-app based game of Breakout programmed from scratch<br>
 Language: HTML, JavaScript<br>
-Project type: School project, solo<br><br>
+Project type: School project, solo<br>
 Purpose: To further understand how to use various elements of JS to create functional games, gain experience with OOP in JS, and use electron to make websites into web-based applications <br>
 
 ## electron-quick-start
